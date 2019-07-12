@@ -1,0 +1,611 @@
+<html class="lobster" lang="en"><head>
+<title>Chilopoda Images @ Insect Images</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+						(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+						(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+						m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+						})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+						ga('create', 'UA-438120-7', 'auto');
+						ga('require', 'displayfeatures');
+						ga('send', 'pageview');
+					</script>
+<script src="https://bugwoodcloud.org/CDN/jquery/1.11.1/jquery-1.11.1.min.js"></script>
+<link href="/static/bootstrapless/css/4.css" rel="stylesheet"/>
+<script src="https://bugwoodcloud.org/CDN/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+<link href="https://bugwoodcloud.org/CDN/select2/3.5.1/select2.css" rel="stylesheet"/>
+<link href="https://bugwoodcloud.org/CDN/select2/select2-bootstrap.css" rel="stylesheet"/>
+<script src="https://bugwoodcloud.org/CDN/select2/3.5.1/select2.min.js"></script>
+<script javascript="" src="https://bugwoodcloud.org/CDN/ajaxform/jquery.form.js" text="" type=""></script>
+<!--[if lt IE 10]>
+			 	<script src="//bugwoodcloud.org/CDN/shims/modernizr.js?"></script>
+			 	<script src="//bugwoodcloud.org/CDN/shims/ieshim.min.js?"></script>
+         	<![endif]-->
+<!--[if lt IE 9]>
+		      	<script src="//bugwoodcloud.org/CDN/shims/html5shiv.js?"></script>
+		      	<script src="//bugwoodcloud.org/CDN/shims/respond.min.js?"></script>
+		    <![endif]-->
+<script src="https://bugwoodcloud.org/CDN/shims/fontenabled.js?"></script>
+<script src="/static/js/fontenabled.js " type="text/javascript"></script>
+<link href="/static/css/font-include.css" id="fontinclude" rel="stylesheet" type="text/css"/>
+<noscript>
+</noscript>
+<script> 
+	        
+            apiroot='https://api.bugwood.org/rest/api/';
+            
+            	var isUrban = 4 == 7 ? 'status=4,6&' : '';
+            
+         </script>
+<script>apiroot="https://api.bugwood.org/rest/api/";systemid=2;</script><style type="text/css">@font-face { font-family:lobster; src: url(https://bugwoodcloud.org/CDN/shims/Lobster.woff);}</style><style type="text/css">@font-face { font-family:lobster; src: url(https://bugwoodcloud.org/CDN/shims/Lobster.woff);}</style></head>
+<body>
+<nav class="navbar navbar-inverse navbar-static-top no-margin-bottom " id="mw-navigation" role="navigation">
+<div class="container-fluid">
+<div class="navbar-header">
+<button class="navbar-toggle collapsed" data-target=".mult" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<!-- logo and main page link -->
+<div class=" navbar-brand" role="banner">
+<a href="/index.cfm" title="Visit the main page"><img alt="Insect Images" height="50" src="//bugwoodcloud.org/CDN/logos/insectimages.gif"/></a>
+</div>
+</div>
+<div class="collapse navbar-collapse mult" id="main-nav">
+<ul class="nav navbar-nav nav-pills hidden-xs hidden-sm ">
+<!-- Projects -->
+<li><a href="/index.cfm#order">Orders</a></li>
+<li><a href="/index.cfm#other">Other Arthropods</a></li>
+<li><a href="/support/">Help</a></li>
+</ul>
+<div class="navbar-right-aligned hidden-xs hidden-sm ">
+<a class="navbar-brand" href="/support/">
+<img alt="Brand" src="//bugwoodcloud.org/CDN/ads/checkoutnewfeatures.gif"/>
+</a>
+</div>
+</div>
+</div><!-- /.navbar-collapse -->
+</nav>
+<nav class="navbar navbar-default navbar-static-top">
+<div class="container-fluid">
+<!-- Brand and toggle get grouped for better mobile display -->
+<div class="navbar-header">
+</div>
+<!-- Collect the nav links, forms, and other content for toggling -->
+<div class="collapse navbar-collapse mult" id="bs-example-navbar-collapse-1">
+<ul class="nav navbar-nav nav-pills navbar-left">
+<li class="dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" href="/">
+                      Browse <b class="caret"></b>
+</a>
+<ul class="dropdown-menu">
+<li><a href="#order">Orders</a>
+<ul class="dropdown-menu sub-menu">
+<li><a href="/browse/tax.cfm?order=39">Beetles</a></li>
+<li><a href="/browse/tax.cfm?order=131">Moths and Butterflies</a></li>
+<li><a href="/browse/tax.cfm?order=92">True bugs</a></li>
+<li><a href="/browse/tax.cfm?order=98">Bees, Wasps, Ants</a></li>
+<li><a href="/browse/tax.cfm?order=58">Flies</a></li>
+<li><a href="/browse/tax.cfm?order=159">Grasshoppers and Crickets</a></li>
+<li><a href="/browse/tax.cfm?order=155">Dragonflies and Damselflies</a></li>
+<li><a href="/browse/tax.cfm?order=238">Thrips</a></li>
+<li><a href="/browse/tax.cfm?order=152">Lacewings and Dobsonflies</a></li>
+<li><a href="/browse/tax.cfm?order=220">Fleas</a></li>
+<li><a href="/browse/tax.cfm?order=369">Cockroaches</a></li>
+<li><a href="/browse/tax.cfm?order=121">Termites</a></li>
+<li><a href="/browse/tax.cfm?class=104">All Orders</a></li>
+</ul>
+</li>
+<li>
+<a href="#other">Other Arthropods</a>
+<ul class="dropdown-menu sub-menu">
+<li><a href="/browse/tax.cfm?class=102">Centipedes</a></li>
+<li><a href="/browse/tax.cfm?order=51">Crabs, Crayfish, Lobsters</a></li>
+<li><a href="/browse/tax.cfm?order=308">Harvestmen</a></li>
+<li><a href="/browse/tax.cfm?class=103">Millipedes</a></li>
+<li><a href="/browse/tax.cfm?order=291">Mites and ticks</a></li>
+<li><a href="/browse/tax.cfm?order=120">Pill Bugs and woodlice</a></li>
+<li><a href="/browse/tax.cfm?order=212">Scorpions</a></li>
+<li><a href="/browse/tax.cfm?order=12">Spiders</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<form action="/search/action.cfm" class="navbar-form navbar-left" role="search">
+<div class="input-group">
+<input class="form-control" name="q" placeholder="Search" title="search" value=""/>
+<div class="input-group-btn">
+<button class=" btn btn-default" id="mw-searchButton" title="Search the pages for this text" type="submit" value="Search">
+<span class="glyphicon glyphicon-search"></span>
+</button>
+</div>
+</div>
+</form>
+<ul class="nav navbar-nav navbar-right-aligned">
+<li> <a class="" href="?class%3D102&amp;forcelogin" title="You are not logged in."> <span class="glyphicon glyphicon-user"></span></a></li>
+<li>
+<a href="/member/lightbox.cfm" title="Light Box">
+<span class="glyphicon glyphicon glyphicon-inbox">
+<span class="badge lightboxcount">0</span>
+</span></a>
+</li>
+</ul>
+<!-- account options -->
+</div><!-- /.navbar-collapse -->
+</div><!-- /.container-fluid -->
+</nav>
+<!-- navigation bar -->
+<div class="container">
+<div class="row well">
+<div class="col-xs-12">
+<h2>
+        Chilopoda 
+      </h2>
+<table style="font-size:13px; line-height:20px">
+<tbody><tr><td>
+<strong>Kingdom:</strong> Animalia
+      </td></tr>
+<tr><td style="padding-left:20px">
+<strong>Phylum:</strong> Arthropoda
+      </td></tr>
+<tr><td style="padding-left:40px">
+<strong>Subphylum:</strong> Atelocerata
+        </td></tr>
+<tr><td style="padding-left:60px">
+<strong>Class:</strong>
+<a href="/browse/tax.cfm?class=102">Chilopoda</a>
+</td></tr>
+</tbody></table>
+<hr/>
+<div class="row not">
+<div class="col-sm-4 col-xs-12 " id="top-container">
+</div>
+<div class="col-sm-8 col-xs-12">
+<ul class="nav nav-tabs">
+<li><a class="link" href="taxsubject.cfm?class=102">View Subjects</a></li>
+<li><a class="link" href="taximages.cfm?class=102">View Images Details</a></li>
+<li class="active"><a class="link" href="taxthumb.cfm?class=102">View Images</a></li>
+</ul>
+</div>
+</div>
+<br/>
+</div>
+<div class="col-xs-12 col-sm-6">
+<span id="totalcount">24</span> Images
+        </div>
+<div class="col-xs-12 col-sm-6">
+<form class="form-inline pull-right" id="searchform">
+<label>Search: <input aria-controls="datatable" class="form-control input-sm" id="sidebarsearch" placeholder="" type="search"/></label>
+</form>
+</div>
+<noscript><h1>This page requires Javascript to be enabled.</h1></noscript>
+</div>
+<style>
+    #content {
+      margin-left: 5px;
+    }
+    .no-sidebar {
+        margin-left:0 !important;
+    }
+    #sidebar {
+        position: fixed;
+        top:0;
+        left: -2000px;
+        z-index:1050;
+    }
+    #sidebar-content {
+        background-color: white;
+        border-radius: 5px;
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    #toggleSidebar {
+      border-right:1px solid #dddddd;
+      border-top:1px solid #dddddd;
+      border-bottom:1px solid #dddddd;
+      font-size: 23px;
+      padding:5px;
+      padding-bottom:13px; 
+      position: absolute;
+      background-color: white;
+      float: right;
+      top: 35%;
+      right: -48px;
+      border-radius: 5px;
+    }
+    .sideways{
+
+      -ms-transform: rotate(-90deg); /* IE 9 */
+      -webkit-transform: rotate(-90deg); /* Chrome, Safari, Opera */
+      transform: rotate(-90deg);
+      display: -webkit-inline-box;
+      margin-bottom: 100px;
+      margin-top: 100px;
+    }
+    #toggleSidebar i{
+          
+          padding-left: 13px;
+          
+      }
+    @media(max-width :767px){
+      #sidebar {
+          max-width: 95%;
+          bottom:0px;
+      }
+      #sidebar-content{
+        overflow-y: scroll;
+        max-height: 100%;
+      }
+    }
+    .hidescrollbar{
+      overflow:hidden;
+      padding-left: 15px;
+      border-radius: 5px;
+    }
+  </style>
+<div class="container" id="sidebar" style="left: -750px;">
+<div class="hidescrollbar">
+<div class="row " id="sidebar-content" style="max-height: 831px;">
+<div class="col-xs-12">
+<script src="/static/js/browse/sidebar.js?9069E019-946A-79E0-14FB1C9235D8B794" type="text/javascript"></script>
+<div class="row ">
+<h2 class="col-xs-12 col-sm-5"> Narrow Results by:</h2><div class="col-xs-12 col-sm-5"><button class="btn btn-default" id="clearfilter" style="margin-top: 20px;display:inline;" type="button">Clear Filters</button></div>
+</div>
+<div class="row ">
+<form name="filters">
+<div class="form-group col-xs-12 col-sm-6 ">
+<label class="control-label" for="setting">Commodity/Setting</label>
+<div class="select2-container select2-container-multi form-control select2" id="s2id_autogen1"><ul class="select2-choices"> <li class="select2-search-field"> <label class="select2-offscreen" for="s2id_autogen2"></label> <input autocapitalize="off" autocomplete="off" autocorrect="off" class="select2-input select2-default" id="s2id_autogen2" placeholder="" spellcheck="false" style="width: 321px;" type="text"/> </li></ul><div class="select2-drop select2-drop-multi select2-display-none"> <ul class="select2-results"> <li class="select2-no-results">No matches found</li></ul></div></div><input class="form-control select2 select2-offscreen" data-childurlparam="area" data-parenturlparam="domain" data-selectionsize="infinity" data-urlparam="domain" name="setting" tabindex="-1" type="hidden" value=""/>
+</div>
+<div class="form-group col-xs-12 col-sm-6 ">
+<label class="control-label" for="host">Host</label>
+<div class="select2-container select2-container-multi form-control select2" id="s2id_autogen3"><ul class="select2-choices"> <li class="select2-search-field"> <label class="select2-offscreen" for="s2id_autogen4"></label> <input autocapitalize="off" autocomplete="off" autocorrect="off" class="select2-input select2-default" id="s2id_autogen4" placeholder="" spellcheck="false" style="width: 321px;" type="text"/> </li></ul><div class="select2-drop select2-drop-multi select2-display-none"> <ul class="select2-results"> <li class="select2-no-results">No matches found</li></ul></div></div><input class="form-control select2 select2-offscreen" data-selectionsize="infinity" data-urlparam="host" name="host" tabindex="-1" type="hidden" value=""/>
+</div>
+<div class="form-group col-xs-12 col-sm-6 ">
+<label class="control-label" for="descriptor">Descriptor</label>
+<div class="select2-container select2-container-multi form-control select2" id="s2id_autogen5"><ul class="select2-choices"> <li class="select2-search-field"> <label class="select2-offscreen" for="s2id_autogen6"></label> <input autocapitalize="off" autocomplete="off" autocorrect="off" class="select2-input select2-default" id="s2id_autogen6" placeholder="" spellcheck="false" style="width: 321px;" type="text"/> </li></ul><div class="select2-drop select2-drop-multi select2-display-none"> <ul class="select2-results"> <li class="select2-no-results">No matches found</li></ul></div></div><input class="form-control select2 select2-offscreen" data-selectionsize="infinity" data-urlparam="desc" name="descriptor" tabindex="-1" type="hidden" value=""/>
+</div>
+<div class="form-group col-xs-12 col-sm-6 ">
+<label class="control-label" for="Photographer">Photographer</label>
+<div class="select2-container select2-container-multi form-control select2" id="s2id_autogen7"><ul class="select2-choices"> <li class="select2-search-field"> <label class="select2-offscreen" for="s2id_autogen8"></label> <input autocapitalize="off" autocomplete="off" autocorrect="off" class="select2-input select2-default" id="s2id_autogen8" placeholder="" spellcheck="false" style="width: 321px;" type="text"/> </li></ul><div class="select2-drop select2-drop-multi select2-display-none"> <ul class="select2-results"> <li class="select2-no-results">No matches found</li></ul></div></div><input class="form-control select2 select2-offscreen" data-action="author" data-query-string="include=count" data-selectionsize="infinity" data-urlparam="aut" name="Photographer" tabindex="-1" type="hidden" value=""/>
+</div>
+<div class="form-group col-xs-12 col-sm-6 ">
+<label class="control-label" for="organization">Organization</label>
+<div class="select2-container select2-container-multi form-control select2" id="s2id_autogen9"><ul class="select2-choices"> <li class="select2-search-field"> <label class="select2-offscreen" for="s2id_autogen10"></label> <input autocapitalize="off" autocomplete="off" autocorrect="off" class="select2-input select2-default" id="s2id_autogen10" placeholder="" spellcheck="false" style="width: 321px;" type="text"/> </li></ul><div class="select2-drop select2-drop-multi select2-display-none"> <ul class="select2-results"> <li class="select2-no-results">No matches found</li></ul></div></div><input class="form-control select2 select2-offscreen" data-selectionsize="infinity" data-urlparam="org" name="organization" tabindex="-1" type="hidden" value=""/>
+</div>
+<div class="form-group col-xs-12 col-sm-6 ">
+<label class="control-label" for="project">Project</label>
+<div class="select2-container select2-container-multi form-control select2" id="s2id_autogen11"><ul class="select2-choices"> <li class="select2-search-field"> <label class="select2-offscreen" for="s2id_autogen12"></label> <input autocapitalize="off" autocomplete="off" autocorrect="off" class="select2-input select2-default" id="s2id_autogen12" placeholder="" spellcheck="false" style="width: 321px;" type="text"/> </li></ul><div class="select2-drop select2-drop-multi select2-display-none"> <ul class="select2-results"> <li class="select2-no-results">No matches found</li></ul></div></div><input class="form-control select2 select2-offscreen" data-selectionsize="infinity" data-urlparam="proj" name="project" tabindex="-1" type="hidden" value=""/>
+</div>
+<div class="form-group col-xs-12 col-sm-6 ">
+<label class="control-label" for="country">Location</label>
+<div class="select2-container select2-container-multi form-control select2" id="s2id_autogen13"><ul class="select2-choices"> <li class="select2-search-field"> <label class="select2-offscreen" for="s2id_autogen14"></label> <input autocapitalize="off" autocomplete="off" autocorrect="off" class="select2-input select2-default" id="s2id_autogen14" placeholder="" spellcheck="false" style="width: 321px;" type="text"/> </li></ul><div class="select2-drop select2-drop-multi select2-display-none"> <ul class="select2-results"> <li class="select2-no-results">No matches found</li></ul></div></div><input class="form-control select2 select2-offscreen" data-action="country/state" data-childurlparam="state" data-parenturlparam="country" data-query-string="includeonly=id,text,parentid,parent,count" data-urlparam="country" name="country" tabindex="-1" type="hidden" value=""/>
+</div>
+<div class="form-group col-xs-12 col-sm-6 ">
+<label class="control-label" for="genderCaste">Gender-Caste</label>
+<div class="select2-container select2-container-multi form-control select2" id="s2id_autogen15"><ul class="select2-choices"> <li class="select2-search-field"> <label class="select2-offscreen" for="s2id_autogen16"></label> <input autocapitalize="off" autocomplete="off" autocorrect="off" class="select2-input select2-default" id="s2id_autogen16" placeholder="" spellcheck="false" style="width: 321px;" type="text"/> </li></ul><div class="select2-drop select2-drop-multi select2-display-none"> <ul class="select2-results"> <li class="select2-no-results">No matches found</li></ul></div></div><input class="form-control select2 select2-offscreen" data-action="image/gendercaste" data-selectionsize="infinity" data-urlparam="gender" name="genderCaste" tabindex="-1" type="hidden" value=""/>
+</div>
+<div class="form-group col-xs-12 col-sm-6 ">
+<label class="control-label" for="ImageType">Image Type</label>
+<div class="select2-container select2-container-multi form-control select2" id="s2id_autogen17"><ul class="select2-choices"> <li class="select2-search-field"> <label class="select2-offscreen" for="s2id_autogen18"></label> <input autocapitalize="off" autocomplete="off" autocorrect="off" class="select2-input select2-default" id="s2id_autogen18" placeholder="" spellcheck="false" style="width: 321px;" type="text"/> </li></ul><div class="select2-drop select2-drop-multi select2-display-none"> <ul class="select2-results"> <li class="select2-no-results">No matches found</li></ul></div></div><input class="form-control select2 select2-offscreen" data-action="type" data-selectionsize="infinity" data-urlparam="type" name="ImageType" tabindex="-1" type="hidden" value=""/>
+</div>
+<div class="form-group col-xs-12 col-sm-6 ">
+<label class="control-label" for="ImageView">Image View</label>
+<div class="select2-container select2-container-multi form-control select2" id="s2id_autogen19"><ul class="select2-choices"> <li class="select2-search-field"> <label class="select2-offscreen" for="s2id_autogen20"></label> <input autocapitalize="off" autocomplete="off" autocorrect="off" class="select2-input select2-default" id="s2id_autogen20" placeholder="" spellcheck="false" style="width: 321px;" type="text"/> </li></ul><div class="select2-drop select2-drop-multi select2-display-none"> <ul class="select2-results"> <li class="select2-no-results">No matches found</li></ul></div></div><input class="form-control select2 select2-offscreen" data-action="image/imageview" data-selectionsize="infinity" data-urlparam="view" name="ImageView" tabindex="-1" type="hidden" value=""/>
+</div>
+<div class="form-group col-xs-12 col-sm-6 ">
+<label class="control-label" for="orientation">Orientation</label>
+<div class="select2-container select2-container-multi form-control select2" id="s2id_autogen21"><ul class="select2-choices"> <li class="select2-search-field"> <label class="select2-offscreen" for="s2id_autogen22"></label> <input autocapitalize="off" autocomplete="off" autocorrect="off" class="select2-input select2-default" id="s2id_autogen22" placeholder="" spellcheck="false" style="width: 321px;" type="text"/> </li></ul><div class="select2-drop select2-drop-multi select2-display-none"> <ul class="select2-results"> <li class="select2-no-results">No matches found</li></ul></div></div><input class="form-control select2 select2-offscreen" data-action="image/orientation" data-urlparam="orin" name="orientation" tabindex="-1" type="hidden" value=""/>
+</div>
+<div class="form-group col-xs-12 col-sm-6 ">
+<label class="control-label" for="Resolutions">Resolution</label>
+<div class="select2-container select2-container-multi form-control select2" id="s2id_autogen23"><ul class="select2-choices"> <li class="select2-search-field"> <label class="select2-offscreen" for="s2id_autogen24"></label> <input autocapitalize="off" autocomplete="off" autocorrect="off" class="select2-input select2-default" id="s2id_autogen24" placeholder="" spellcheck="false" style="width: 321px;" type="text"/> </li></ul><div class="select2-drop select2-drop-multi select2-display-none"> <ul class="select2-results"> <li class="select2-no-results">No matches found</li></ul></div></div><input class="form-control select2 select2-offscreen" data-action="version" data-selectionsize="1" data-urlparam="res" name="Resolutions" tabindex="-1" type="hidden" value=""/>
+</div>
+<div class="form-group col-xs-12 col-sm-6 ">
+<label class="control-label" for="PersonFeatured">Person Featured</label>
+<div class="select2-container select2-container-multi form-control select2" id="s2id_autogen25"><ul class="select2-choices"> <li class="select2-search-field"> <label class="select2-offscreen" for="s2id_autogen26"></label> <input autocapitalize="off" autocomplete="off" autocorrect="off" class="select2-input select2-default" id="s2id_autogen26" placeholder="" spellcheck="false" style="width: 321px;" type="text"/> </li></ul><div class="select2-drop select2-drop-multi select2-display-none"> <ul class="select2-results"> <li class="select2-no-results">No matches found</li></ul></div></div><input class="form-control select2 select2-offscreen" data-action="person" data-selectionsize="1" data-urlparam="person" name="PersonFeatured" tabindex="-1" type="hidden" value=""/>
+</div>
+<div class="form-group col-xs-12 col-sm-6 ">
+<label class="control-label" for="voucherspecimen">Voucher specimen</label>
+<div class="select2-container select2-container-multi form-control select2" id="s2id_autogen27"><ul class="select2-choices"> <li class="select2-search-field"> <label class="select2-offscreen" for="s2id_autogen28"></label> <input autocapitalize="off" autocomplete="off" autocorrect="off" class="select2-input select2-default" id="s2id_autogen28" placeholder="" spellcheck="false" style="width: 321px;" type="text"/> </li></ul><div class="select2-drop select2-drop-multi select2-display-none"> <ul class="select2-results"> <li class="select2-no-results">No matches found</li></ul></div></div><input class="form-control select2 select2-offscreen" data-data='[{"id":0,"text":"No"},{"id":1,"text":"Yes"}]' data-selectionsize="1" data-urlparam="voucher" name="voucherspecimen" tabindex="-1" type="text" value=""/>
+</div>
+<div class="form-group col-xs-12 col-sm-6 ">
+<label class="control-label" for="License">License</label>
+<div class="select2-container select2-container-multi form-control select2" id="s2id_autogen29"><ul class="select2-choices"> <li class="select2-search-field"> <label class="select2-offscreen" for="s2id_autogen30"></label> <input autocapitalize="off" autocomplete="off" autocorrect="off" class="select2-input select2-default" id="s2id_autogen30" placeholder="" spellcheck="false" style="width: 321px;" type="text"/> </li></ul><div class="select2-drop select2-drop-multi select2-display-none"> <ul class="select2-results"> <li class="select2-no-results">No matches found</li></ul></div></div><input class="form-control select2 select2-offscreen" data-action="author/license" data-query-string="include=count" data-selectionsize="2" data-urlparam="license" name="License" tabindex="-1" type="hidden" value=""/>
+</div>
+<div class="form-group col-xs-12 col-sm-6">
+<label class="control-label" for="node">Node</label>
+<div class="select2-container select2-container-multi form-control select2" id="s2id_autogen31"><ul class="select2-choices"> <li class="select2-search-field"> <label class="select2-offscreen" for="s2id_autogen32"></label> <input autocapitalize="off" autocomplete="off" autocorrect="off" class="select2-input select2-default" id="s2id_autogen32" placeholder="" spellcheck="false" style="width: 321px;" type="text"/> </li></ul><div class="select2-drop select2-drop-multi select2-display-none"> <ul class="select2-results"> <li class="select2-no-results">No matches found</li></ul></div></div><input class="form-control select2 select2-offscreen" data-urlparam="node" name="node" tabindex="-1" type="hidden" value=""/>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+<a class="toggles" href="javascript:void(0)" id="toggleSidebar" title="Filter"><i class="glyphicon glyphicon-chevron-right"></i><br/><div class="sideways"><strong>Filter</strong></div><br/><i class="glyphicon glyphicon-chevron-right"></i></a>
+</div>
+<script>
+      $.asm = {};
+      $.asm.panels = 1;
+      $('#toggleSidebar').click(function() {
+        if ($.asm.panels === 1) {
+          $('#toggleSidebar i').addClass('glyphicon-chevron-left');
+          $('#toggleSidebar i').removeClass('glyphicon-chevron-right');
+          return sidebar(2);
+        } else {
+          $('#toggleSidebar i').removeClass('glyphicon-chevron-left');
+          $('#toggleSidebar i').addClass('glyphicon-chevron-right');
+          return sidebar(1);
+        }
+      });
+      function sidebar(panels) {
+          $.asm.panels = panels;
+          if (panels === 1) {
+             $("body").removeClass("modal-open");
+             $('#sidebar-content').css('overflow-y','hidden');
+             $('#sidebar').animate({//hide
+                  left: -($('#sidebar').width()+30),
+            });
+          } else if (panels === 2) {//show
+             $("body").addClass("modal-open");
+             $('#sidebar-content').css('overflow-y','scroll');
+             $('#sidebar').animate({
+                  left: 0,
+              });
+          }
+      };
+      $(document).mouseup(function (e){
+        var container = $("#sidebar");
+          if (!container.is(e.target)&& container.has(e.target).length === 0 && $('#toggleSidebar *').hasClass('glyphicon-chevron-left')){
+            $('#toggleSidebar').trigger('click');
+          }
+      });
+      $(window).on('resize load',function(){
+        $('#sidebar-content').css('max-height',$(window).height()-50);
+        if($('.glyphicon-chevron-right').length){
+          $('#sidebar').css('left',-($('#sidebar').width()+30));
+        }
+      });
+    </script>
+<style>
+@media screen and (max-width: 1199px){
+        a.btn.btn-default, button.btn.btn-default {
+          display: block;
+          width: 100%;
+          margin-bottom: 10px;
+        }
+      }
+</style>
+<div class="modal fade" id="modal">
+<div class="modal-dialog ">
+<div class="modal-content">
+<div class="modal-header">
+<button aria-label="Close" class="close" data-dismiss="modal" type="button"><span aria-hidden="true">×</span></button>
+<h4 class="modal-title"></h4>
+</div>
+<div class="modal-body">
+<div class="row ">
+<div class="col-xs-12 text-center">
+<img alt="" class="img-responsive center-block" data-baseurl="//bugwoodcloud.org/images/384x256/" src="" style="max-height: 616.7px;" title="Click to close image"/>
+</div>
+<div class="col-xs-12">
+<br/>
+</div>
+<div class="col-xs-12" id="modalcitation">
+</div>
+<div class="col-xs-12">
+<br/>
+</div>
+<div class="col-xs-12" id="modalsubject">
+</div>
+<div class="col-xs-12">
+<br/>
+<div class="alert alert-success fade " id="alert" role="alert">
+</div>
+</div>
+<div class="col-xs-12 text-center" id="buttons" name="buttons">
+<a class="imglink btn btn-default" href="/browse/detail.cfm?imgnum=">Image Detail Page</a>
+<a class="sublink btn btn-default" href="/browse/subthumb.cfm?sub=">Subject Page</a>
+<a class="autlink btn btn-default" href="/browse/autthumb.cfm?aut=">Photographer Page</a>
+</div>
+<div class="col-xs-12">
+<br/>
+<br/>
+</div>
+<div class="col-xs-12 text-center">
+<p>To request permission for use or make collections</p>
+<a class="btn btn-default" href="?forcelogin&amp;class=102">Login</a> or <a class="btn btn-default " href="/join/index.cfm?">Register</a>
+</div>
+</div>
+</div>
+</div><!-- /.modal-content -->
+</div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+<script>
+        $('[data-toggle=popover]').popover({html:true,
+          trigger:'manual'
+        });
+        $('[data-toggle=popover]').on('click',function(e){
+          $(e.currentTarget).popover('toggle');
+        });
+        $('[data-toggle=popover]').on('focusout',function(e){
+          setTimeout(function(){
+                $(e.currentTarget).popover('toggle');
+          },200);
+        });
+        var popover=$(".lightboxadd").data('bs.popover');
+        $('.modal').find('img').css('max-height',$(window).height()*.7);
+        function setmodal(arr){
+            //{"columns":["imgnum","subid","commonname","scientificname","autid","photographer","org","baseimgurl","landscape","description"],"
+            $('#modal').find('img').one("load", function() {
+            }).attr("src",arr[7]+'768x512/'+arr[0]+'.jpg');
+            $('.imglink').attr('href',$('.imglink').attr('href').replace(/=.*/,'='+arr[0]));
+            $('.sublink').attr('href',$('.sublink').attr('href').replace(/=.*/,'='+arr[1]));
+            $('.autlink').attr('href',$('.autlink').attr('href').replace(/=.*/,'='+arr[4]));
+            if(typeof popover!="undefined"){
+                $('[name=contentid]').val(arr[0]);
+                var options='';
+                $.ajax({
+                    url: apiroot+'version/.json?contentid='+arr[0]+'&systemid=2',
+                    success: function (response) {
+                        for(var i=0;i<response.items.length;i++){
+                            options+=getlightboxstring(response.items[i].id,response.items[i].text);
+                        }
+                        var maxversion = response.items.reduce(function(max, arr) {
+                            return max >= arr.id ? max : arr.id;
+                        }, -Infinity);
+                       $('[data-target=".collectionmodal"]').data('versionid',maxversion);
+                       $('[data-target=".collectionmodal"]').data('hide','[name=versionid]');
+                        popover.options.content=options;
+                    },
+                    dataType: 'json'
+                });
+                function getlightboxstring(versionid,versionname){
+                    return "  <button class='lightbox  btn btn-link' data-versionid='"+versionid+"' data-contentid='"+arr[0]+"' data-method='Lightbox.add' data-systemid='2' data-title='"+versionname+"'>"+versionname+" </button><br/>";
+                }
+                $('[data-target=".collectionmodal"]').data('contentid',$(this).data('id'));
+                 $("[data-toggle=popover]").on('shown.bs.popover',function(){
+                    Lightbox.setbuttons();
+                    $('.lightbox').on('click',function(e){
+                        eval($(this).data('method')+'($(this))');
+                        e.relatedTarget.off();
+                    });
+                 });
+            }
+            $('#modal').modal('show');
+            $('#modalcitation').html("Cite as: "+arr[arr.length-1]);
+             $('#modal').find('.modal-title:first').html(('<strong>'+arr[3]+' (<em>'+arr[2].replace('spp.','sp.').trim()+'</em>)</strong> '+arr[9].toLowerCase()).replace(/\(\)/,''));  
+        }
+        $('#modal').on('shown.bs.modal', function (e) {
+           var element=document.getElementById('modal');
+            if (element.offsetHeight < element.scrollHeight) {
+                 $('#modal').find('img').css("max-height",$('#modal').find('img').height()-(element.scrollHeight-element.offsetHeight));
+            } 
+        });
+    </script>
+<div id="imagecontainer">
+<div class="row vertical"><div class="pointer item text-center well"><img class="img-responsive" src="//bugwoodcloud.org/images/384x256/5482829.jpg"/><div class="img-foot">stone centipedes<br/><em></em><br/>Johnny N. Dell</div></div><div class="pointer item text-center well"><img class="img-responsive" src="//bugwoodcloud.org/images/384x256/5482805.jpg"/><div class="img-foot">stone centipedes<br/><em></em><br/>Johnny N. Dell</div></div><div class="pointer item text-center well"><img class="img-responsive" src="//bugwoodcloud.org/images/384x256/5473415.jpg"/><div class="img-foot">stone centipede<br/><em>Lithobius </em>sp.<br/>Joseph Berger</div></div><div class="pointer item text-center well"><img class="img-responsive" src="//bugwoodcloud.org/images/384x256/5473414.jpg"/><div class="img-foot">stone centipede<br/><em>Lithobius </em>sp.<br/>Joseph Berger</div></div><div class="pointer item text-center well"><img class="img-responsive" src="//bugwoodcloud.org/images/384x256/5473413.jpg"/><div class="img-foot">stone centipede<br/><em>Lithobius </em>sp.<br/>Joseph Berger</div></div><div class="pointer item text-center well"><img class="img-responsive" src="//bugwoodcloud.org/images/384x256/5473412.jpg"/><div class="img-foot">stone centipede<br/><em>Lithobius </em>sp.<br/>Joseph Berger</div></div><div class="pointer item text-center well"><img class="img-responsive" src="//bugwoodcloud.org/images/384x256/5445307.jpg"/><div class="img-foot">soil centipedes<br/><em></em><br/>Whitney Cranshaw</div></div><div class="pointer item text-center well"><img class="img-responsive" src="//bugwoodcloud.org/images/384x256/5445306.jpg"/><div class="img-foot">common desert centipede<br/><em>Scolopendra polymorpha</em><br/>Whitney Cranshaw</div></div><div class="pointer item text-center well"><img class="img-responsive" src="//bugwoodcloud.org/images/384x256/5445296.jpg"/><div class="img-foot">common desert centipede<br/><em>Scolopendra polymorpha</em><br/>Whitney Cranshaw</div></div><div class="pointer item text-center well"><img class="img-responsive" src="//bugwoodcloud.org/images/384x256/5445255.jpg"/><div class="img-foot">common desert centipede<br/><em>Scolopendra polymorpha</em><br/>Whitney Cranshaw</div></div><div class="pointer item text-center well"><img class="img-responsive" src="//bugwoodcloud.org/images/384x256/5386160.jpg"/><div class="img-foot">soil centipede<br/><em>Geophilus </em>sp.<br/>Joseph Berger</div></div><div class="pointer item text-center well"><img class="img-responsive" src="//bugwoodcloud.org/images/384x256/5386159.jpg"/><div class="img-foot">soil centipede<br/><em>Geophilus </em>sp.<br/>Joseph Berger</div></div><div class="pointer item text-center well"><img class="img-responsive" src="//bugwoodcloud.org/images/384x256/5382160.jpg"/><div class="img-foot">common desert centipede<br/><em>Scolopendra polymorpha</em><br/>Whitney Cranshaw</div></div><div class="pointer item text-center well"><img class="img-responsive" src="//bugwoodcloud.org/images/384x256/5360730.jpg"/><div class="img-foot">centipede<br/><em></em><br/>Eugene E. Nelson</div></div><div class="pointer item text-center well"><img class="img-responsive" src="//bugwoodcloud.org/images/384x256/5305047.jpg"/><div class="img-foot">common desert centipede<br/><em>Scolopendra polymorpha</em><br/>Whitney Cranshaw</div></div><div class="pointer item text-center well"><img class="img-responsive" src="//bugwoodcloud.org/images/384x256/5302056.jpg"/><div class="img-foot">common desert centipede<br/><em>Scolopendra polymorpha</em><br/>Whitney Cranshaw</div></div><div class="pointer item text-center well"><img class="img-responsive" src="//bugwoodcloud.org/images/384x256/5084042.jpg"/><div class="img-foot">stone centipede<br/><em>Lithobius </em>sp.<br/>Whitney Cranshaw</div></div><div class="pointer item text-center well"><img class="img-responsive" src="//bugwoodcloud.org/images/384x256/5084041.jpg"/><div class="img-foot">stone centipede<br/><em>Lithobius </em>sp.<br/>Whitney Cranshaw</div></div><div class="pointer item text-center well"><img class="img-responsive" src="//bugwoodcloud.org/images/384x256/1386035.jpg"/><div class="img-foot">stone centipedes<br/><em></em><br/>Joseph Berger</div></div><div class="pointer item text-center well"><img class="img-responsive" src="//bugwoodcloud.org/images/384x256/1386034.jpg"/><div class="img-foot">stone centipedes<br/><em></em><br/>Joseph Berger</div></div><div class="pointer item text-center well"><img class="img-responsive" src="//bugwoodcloud.org/images/384x256/1386033.jpg"/><div class="img-foot">stone centipedes<br/><em></em><br/>Joseph Berger</div></div><div class="pointer item text-center well"><img class="img-responsive" src="//bugwoodcloud.org/images/384x256/1274066.jpg"/><div class="img-foot">centipede<br/><em></em><br/>Tom Coleman</div></div><div class="pointer item text-center well"><img class="img-responsive" src="//bugwoodcloud.org/images/384x256/1225124.jpg"/><div class="img-foot">centipede<br/><em></em><br/>Edward L. Manigault</div></div><div class="pointer item text-center well"><img class="img-responsive" src="//bugwoodcloud.org/images/384x256/0001055.jpg"/><div class="img-foot">centipede<br/><em></em><br/>Georgia Forestry Commission </div></div></div></div><div class="row" id="next-page"></div>
+<div class="next-page row">
+</div>
+<link href="/static/css/finitescroll.css" rel="stylesheet"/>
+<script src="/static/js/finitescroll.js" type="text/javascript"></script>
+<script type="text/javascript">
+        jQuery(function($) {
+             delete params['page'];
+             delete params['start'];
+             finite=$('#imagecontainer').finitescroll({
+                        url:apiroot+'image/.json',
+                        querystring:isUrban+'include=descriptor,dateupdated,citation&fmt=datatable&order[0][column]=0&order[0][dir]=desc&columns[8][searchable]=false&columns[1][searchable]=false&columns[7][searchable]=false&columns[10][searchable]=false&columns[4][searchable]=false&columns[11][searchable]=false',
+                        totalcount:'#totalcount',
+                        data:params,
+                    });
+             searchterm='';
+             var timer;
+             $(document).on('keyup','#sidebarsearch',function(e){
+                var val = $(this).val();
+                window.clearTimeout(timer);
+                if( val !==searchterm || e.keyCode==17){
+                    searchterm=val;
+                    params['search[value]']=val;
+                    timer = window.setTimeout(function(){
+                        object.reload();
+                    },800); 
+                }
+             });
+             $('#searchform').submit(function(e){
+                var val = $('#sidebarsearch').val();
+                e.preventDefault();
+                if( val !==searchterm){
+                    searchterm=val;
+                    params['search[value]']=val;
+                }
+                object.reload();
+             })
+            $(document).on('click','.item',function(){
+                finite=finite.finitescroll('getimage',$(this).data('id'));
+                setmodal($('#imagecontainer').data('finitescroll').openimage);
+            });
+        });
+        object={
+            reload:function(){
+                $('#imagecontainer').finitescroll('redraw',params);
+            }
+        };
+        i = 0;
+    </script>
+</div>
+<nav class="navbar navbar-logo">
+<div class="container-footer">
+<div class="row ">
+<div class="pull-left">
+<img alt="RGB-GEORGIA-V-FC" class="footer-img" src="//bugwoodcloud.org/CDN/logos/RGB-GEORGIA-V-FC.png"/>
+<img alt="bugwood-small" class="footer-img" src="//bugwoodcloud.org/CDN/logos/bugwood-small.gif"/>
+<img alt="gmnh" class="footer-img" src="//bugwoodcloud.org/CDN/logos/gmnh.jpg"/>
+<img alt="entsoc" class="footer-img" src="//bugwoodcloud.org/CDN/logos/entsoc.jpg"/>
+<img alt="itplogo-small" class="footer-img" src="//bugwoodcloud.org/CDN/logos/itplogo-small.png"/>
+</div>
+<div class="pull-right">
+<a class="icon-link" href="//bugwood.blogspot.com/" target="_blank" title="Blogger">
+<img alt="blogger" src="//bugwoodcloud.org/CDN/icons/social/blogger.png" title="blogger"/>
+</a>
+<a class="icon-link" href="//www.facebook.com/pages/Bugwood-Center-for-Invasive-Species-and-Ecosystem-Health/147887145835" target="_blank" title="Facebook">
+<img alt="Facebook" src="//bugwoodcloud.org/CDN/icons/social/facebook.png" title="Facebook"/>
+</a>
+<a class="icon-link" href="//twitter.com/Bugwood?lang=en" target="_blank" title="Twitter">
+<img alt="Twitter" src="//bugwoodcloud.org/CDN/icons/social/twitter.png" title="Twitter"/>
+</a>
+<a class="icon-link click hide" data-target="##myModal" data-toggle="modal" target="_blank" title="Wordpress">
+<img alt="wordpress" src="//bugwoodcloud.org/CDN/icons/social/wordpress.png" title="wordpress"/>
+</a>
+<a class="icon-link" href="//instagram.com/bugwood_uga/" target="_blank" title="Instagram">
+<img alt="Instagram" height="32" src="//bugwoodcloud.org/CDN/icons/social/instagram.png" title="Instagram" width="32"/>
+</a>
+<a class="icon-link " href=" //www.pinterest.com/bugwood0268/" target="_blank" title="Pinterest">
+<img alt="pinterest" src="//bugwoodcloud.org/CDN/icons/social/pinterest.png" title="pinterest"/>
+</a>
+</div>
+</div>
+</div>
+</nav>
+<nav class="navbar navbar-bottom">
+<div class="container-footer">
+<div class="row">
+<div class="col-md-12">
+<span class="text-center hidden-xs hidden-sm ">Insect Images is a joint project of <a href="http://www.uga.edu/">The University of Georgia</a> - <a href="http://www.forestry.uga.edu/">Warnell School of Forestry and Natural Resources</a>, <a href="http://www.caes.uga.edu/">College of Agricultural and Environmental Sciences</a> - <a href="http://www.ent.uga.edu/">Department of Entomology</a>, <a href="http://www.bugwood.org/index.cfm">Center for Invasive Species and Ecosystem Health</a>, <a href="http://naturalhistory.uga.edu/">Georgia Museum of Natural History</a>, The <a href="http://entsoc.org/">Entomology Society of America</a> and <a href="http://www.aphis.usda.gov/">USDA Identification Technology Program</a></span><br/>
+<p><small>Last updated October 2018   /   <a href="https://eits.uga.edu/access_and_security/infosec/pols_regs/policies/privacy/">Privacy</a><br/>
+         Questions and/or comments to the <a href="mailto:bugwood@uga.edu">Bugwood Webmaster</a></small></p>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12 hidden-xs hidden-sm">
+<ul class="nav nav-pills pull-left">
+<li>
+<a href="/about/imageusage.cfm">Image Usage</a>
+</li>
+<li>
+<a href="/about/accessibility.cfm">Accessibility Policy</a>
+</li>
+<li>
+<a href="/about/privacy.cfm">Privacy Policy</a>
+</li>
+<li>
+<a href="/support/contactus/">Contact Us</a>
+</li>
+<li><a href="/contribute.cfm">Contribute</a></li>
+<li><a href="/about/">About Us</a></li>
+<li><a href="/support/">Help</a></li>
+</ul>
+</div>
+</div>
+</div>
+</nav>
+<script>
+			$("a[rel=popover]").popover();
+		</script>
+<span aria-live="polite" class="select2-hidden-accessible" role="status"></span><span aria-live="polite" class="select2-hidden-accessible" role="status"></span><span aria-live="polite" class="select2-hidden-accessible" role="status"></span><span aria-live="polite" class="select2-hidden-accessible" role="status"></span><span aria-live="polite" class="select2-hidden-accessible" role="status"></span><span aria-live="polite" class="select2-hidden-accessible" role="status"></span><span aria-live="polite" class="select2-hidden-accessible" role="status"></span><span aria-live="polite" class="select2-hidden-accessible" role="status"></span><span aria-live="polite" class="select2-hidden-accessible" role="status"></span><span aria-live="polite" class="select2-hidden-accessible" role="status"></span><span aria-live="polite" class="select2-hidden-accessible" role="status"></span><span aria-live="polite" class="select2-hidden-accessible" role="status"></span><span aria-live="polite" class="select2-hidden-accessible" role="status"></span><span aria-live="polite" class="select2-hidden-accessible" role="status"></span><span aria-live="polite" class="select2-hidden-accessible" role="status"></span><span aria-live="polite" class="select2-hidden-accessible" role="status"></span></body></html>
